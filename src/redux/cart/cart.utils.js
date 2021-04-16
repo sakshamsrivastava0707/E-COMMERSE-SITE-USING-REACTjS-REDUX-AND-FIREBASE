@@ -10,7 +10,7 @@ export const addItemToCart = (cartItems, cartItemToAdd) => {
         : cartItem
     );
   }
-
+  //here the quantity parameter is added intially
   return [...cartItems, { ...cartItemToAdd, quantity: 1 }];
 };
 
