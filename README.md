@@ -9,6 +9,7 @@ Can then add items to shopping cart which gets updated on each addition.
 When a user clicks on the cart, the popup shows all the items that they have added along with the quantity and the price.
 At the end of the popup, the total price is displayed with the checkout button.
 When the user clicks on the checkout button, the website redirects to the summary of the payment of the items through stripe , and the user can purchase the items.
+MORE FEATURES TO BE UPDATED
 
 ## Technologies Stack:
 
