@@ -10,10 +10,21 @@ When a user clicks on the cart, the popup shows all the items that they have add
 At the end of the popup, the total price is displayed with the checkout button.
 When the user clicks on the checkout button, the website redirects to the summary of the payment of the items through stripe , and the user can purchase the items.
 
-## Tech-stack used
- Reactjs, Redux , firebase as an authentication tool,
- Custom-components, SAAS for styling
- Stripe api for the payment process, dynamic routing using react-router-dom
+## Technologies Stack:
+
+### Components
+*  Reactjs, Redux 
+* firebase
+*  Stripe API
+*  SAAS
+
+### Insights
+
+*  Firebase as an authentication tool
+*  Custom-components, SAAS for styling
+*  Stripe API for the payment process
+*  Dynamic Routing using react-router-dom
+
 
 
 
