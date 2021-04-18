@@ -4,10 +4,10 @@ DEPLOYEMENT LiNK = https://sakshamsr-shope-live.herokuapp.com/
 
 ## Screenshots
 
-![Preview Page](uploadscreenshot/E-commerse.png "Preview Page")
-![Payement Page](uploadscreenshot/payementPage.png "Payement Page")
-![buy page](uploadscreenshot/buypage.png "buy page")
-![checkout page](uploadscreenshot/checkout.png "checkout page")
+![Preview Page](uploadscreenshot/E-commerse.PNG "Preview Page")
+![Payement Page](uploadscreenshot/payementPage.PNG "Payement Page")
+![buy page](uploadscreenshot/buypage.PNG "buy page")
+![checkout page](uploadscreenshot/checkout.PNG "checkout page")
 
 
 
