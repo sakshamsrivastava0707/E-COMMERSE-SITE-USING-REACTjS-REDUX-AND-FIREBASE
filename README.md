@@ -2,6 +2,21 @@
 
 DEPLOYEMENT LiNK = https://sakshamsr-shope-live.herokuapp.com/
 
+## DESCRIPTION OF THE PROJECT
+This project is an e-commerce website in which users can sign in via google OR sign in or signup via normal login,
+The users can navigate to different shopping items categories,
+Can then add items to shopping cart which gets updated on each addition.
+When a user clicks on the cart, the popup shows all the items that they have added along with the quantity and the price.
+At the end of the popup, the total price is displayed with the checkout button.
+When the user clicks on the checkout button, the website redirects to the summary of the payment of the items through stripe , and the user can purchase the items.
+
+## Tech-stack used
+ Reactjs, Redux , firebase as an authentication tool,
+ Custom-components, SAAS for styling
+ Stripe api for the payment process, dynamic routing using react-router-dom
+
+
+
 ## Screenshots
 
 ![Preview Page](uploadscreenshot/E-commerse.PNG "Preview Page")
