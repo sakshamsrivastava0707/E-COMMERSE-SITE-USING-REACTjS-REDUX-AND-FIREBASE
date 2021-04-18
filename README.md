@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# E-COMMERCE-SITE-USING-REACTjS-REDUX-AND-FIREBASE
 
 DEPLOYEMENT LiNK = https://sakshamsr-shope-live.herokuapp.com/
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
